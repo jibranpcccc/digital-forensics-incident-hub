@@ -4,10 +4,17 @@
     <title>Cybersecurity Incident Forensics Hub</title>
     <link>https://digital-forensics-incident-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 06:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:07:42 GMT</lastBuildDate>
     <atom:link href="https://digital-forensics-incident-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                    <item>
+                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/digital-forensics-incident-hub/#digital-forensics-incident-hub-forum-20261017-1-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 06:07:42 GMT</pubDate>
+      <description>Newly verified community added to Cybersecurity Incident Forensics Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/digital-forensics-incident-hub/#digital-forensics-incident-hub-forum-20261017-1-2026-10-19</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/digital-forensics-incident-hub/#digital-forensics-incident-hub-discord-20260920-1-2026-09-20</guid>
       <pubDate>Sun, 20 Sep 2026 06:07:18 GMT</pubDate>
       <description>Newly verified community added to Cybersecurity Incident Forensics Hub: Friendly web development and programming community covering modern web stacks, design, and career growth.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/webdev Builders Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/webdev/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/digital-forensics-incident-hub/#digital-forensics-incident-hub-reddit-20260919-1-2026-09-19</guid>
-      <pubDate>Sat, 19 Sep 2026 06:05:08 GMT</pubDate>
-      <description>Newly verified community added to Cybersecurity Incident Forensics Hub: A community dedicated to all things web development, client and server-side architectures, and UI/UX design.</description>
     </item>
   </channel>
 </rss>
